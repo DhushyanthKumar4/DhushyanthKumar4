@@ -1,5 +1,54 @@
-# 💫 Hi There, I'm Dhushyanth:
-# Dhushyanth Kumar<br><br>Machine Learning Research Engineer | Retrieval Systems | Generative AI | Recommender Systems<br><br>Incoming UIUC MSIM (Fall 2026)<br>Data Scientist @ Profenaa Infotech<br><br>Focused on:<br>- LLM Evaluation<br>- Retrieval Systems<br>- Recommendation Systems<br>- ML Infrastructure<br>- Applied Research<br>Research Interests<br>## Research Interests<br><br>- Large Language Models<br>- Retrieval-Augmented Generation<br>- Recommender Systems<br>- Information Retrieval<br>- AI Evaluation<br>- Machine Learning Systems<br>Technical Skills<br>## Tech Stack<br><br>Languages:<br>Python<br>SQL<br><br>ML:<br>PyTorch<br>Scikit-Learn<br>XGBoost<br><br>LLM:<br>Transformers<br>LangChain<br>LlamaIndex<br>RAG<br><br>Data:<br>Pandas<br>NumPy<br>Spark<br><br>MLOps:<br>Docker<br>FastAPI<br>MLflow<br>AWS
+# Dhushyanth Kumar
+
+Machine Learning Research Engineer | Retrieval Systems | Generative AI | Recommendation Systems
+
+Incoming UIUC MSIM (Fall 2026)
+Data Scientist @ Profenaa Infotech
+
+Focused on:
+- LLM Evaluation
+- Retrieval Systems
+- Recommendation Systems
+- ML Infrastructure
+- Applied Research
+
+## Research Interests
+
+- Large Language Models
+- Retrieval-Augmented Generation
+- Recommender Systems
+- Information Retrieval
+- AI Evaluation
+- Machine Learning Systems
+
+## Tech Stack
+
+Languages:
+Python
+SQL
+
+ML:
+PyTorch
+Scikit-Learn
+XGBoost
+
+LLM:
+Transformers
+LangChain
+LlamaIndex
+RAG
+
+Data:
+Pandas
+NumPy
+Spark
+
+MLOps:
+Docker
+FastAPI
+MLflow
+AWS
+
 
 
 ## 🌐 Socials:
