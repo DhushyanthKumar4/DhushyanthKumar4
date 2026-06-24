@@ -1,3 +1,5 @@
+Hi there, I'm Dhushyanth 👋
+
 # Dhushyanth Kumar
 
 Machine Learning Research Engineer | Retrieval Systems | Generative AI | Recommendation Systems
