@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hi there, I'm Dhushyanth 👋
 
-<!--
-**DhushyanthKumar4/DhushyanthKumar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dhushyanth Kumar
 
-Here are some ideas to get you started:
+Machine Learning Research Engineer | Retrieval Systems | Generative AI | Recommender Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Incoming MS Student (Fall 2026)
+Data Scientist @ Profenaa Infotech
+
+Focused on:
+- LLM Evaluation
+- Retrieval Systems
+- Recommendation Systems
+- ML Infrastructure
+- Applied Research
+
+## Research Interests
+
+- Large Language Models
+- Retrieval-Augmented Generation
+- Recommender Systems
+- Information Retrieval
+- AI Evaluation
+- Machine Learning Systems
+
+## Tech Stack
+
+Languages:
+Python
+SQL
+
+ML:
+PyTorch
+Scikit-Learn
+XGBoost
+
+LLM:
+Transformers
+LangChain
+LlamaIndex
+RAG
+
+Data:
+Pandas
+NumPy
+Spark
+
+MLOps:
+Docker
+FastAPI
+MLflow
+AWS
+
