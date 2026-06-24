@@ -5,6 +5,7 @@
 Machine Learning Research Engineer | Retrieval Systems | Generative AI | Recommendation Systems
 
 Incoming UIUC MSIM (Fall 2026)
+
 Data Scientist @ Profenaa Infotech
 
 Focused on:
