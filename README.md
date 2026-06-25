@@ -3,56 +3,78 @@
 
 # Dhushyanth Kumar
 
-Machine Learning Research Engineer | Retrieval Systems | Generative AI | Recommendation Systems
+Machine Learning Research Engineer
 
-Incoming UIUC MSIM (Fall 2026)
+Incoming M.S. in Information Management, University of Illinois Urbana–Champaign
 
-Data Scientist @ Profenaa Infotech
-
-Focused on:
-- LLM Evaluation
-- Retrieval Systems
-- Recommendation Systems
-- ML Infrastructure
-- Applied Research
+I build and evaluate machine learning systems for retrieval, recommendation, and generative AI. My work focuses on understanding how modern AI systems behave under real-world constraints including scale, latency, domain shift, noisy supervision, cold-start conditions, and imperfect evaluation methodologies.
 
 ## Research Interests
 
-- Large Language Models
-- Retrieval-Augmented Generation
-- Recommender Systems
-- Information Retrieval
-- AI Evaluation
-- Machine Learning Systems
+* Information Retrieval
+* Recommendation Systems
+* LLM Evaluation & Reliability
+* Retrieval-Augmented Generation
+* Machine Learning Systems
+* Speech & Multimodal Learning
 
-## Tech Stack
+## Current Research Directions
 
-Languages:
-Python
-SQL
+### Retrieval Systems
 
-ML:
-PyTorch
-Scikit-Learn
-XGBoost
+Investigating multilingual retrieval performance across sparse, dense, and hybrid architectures, with a focus on evaluation validity, corpus bias, ranking quality, and latency–accuracy tradeoffs.
 
-LLM:
-Transformers
-LangChain
-LlamaIndex
-RAG
+### Recommendation Systems
 
-Data:
-Pandas
-NumPy
-Spark
+Building hybrid recommendation architectures that combine semantic retrieval, collaborative filtering, learning-to-rank optimization, cold-start personalization, and generative AI explanations.
 
-MLOps:
-Docker
-FastAPI
-MLflow
-AWS
+### AI Reliability
 
+Studying failure modes in machine translation, retrieval pipelines, and generative systems to better understand robustness, consistency, and evaluation limitations.
+
+## Selected Projects
+
+**Multilingual Retrieval Benchmarking**
+
+* Compared BM25, Dense Retrieval, Hybrid Search, and Cross-Encoder Reranking across 11 languages.
+* Evaluated retrieval quality using Recall@K, MRR, nDCG, latency, and throughput metrics.
+* Identified corpus-overlap bias that significantly affected retrieval evaluation outcomes.
+
+**Hybrid Generative Recommendation System**
+
+* Combining semantic retrieval, collaborative filtering, learning-to-rank models, and LLM-generated explanations.
+* Evaluating personalization quality, ranking effectiveness, cold-start robustness, and production-scale retrieval performance.
+
+**Medical Machine Translation Failure Analysis**
+
+* Investigated numerical consistency failures and robustness degradation under noisy fine-tuning conditions.
+* Analyzed terminology preservation and cross-lingual interference effects in domain-adaptive translation systems.
+
+**Low-Resource Speech Translation**
+
+* Evaluated robustness of speech translation pipelines under limited supervision and noisy acoustic conditions.
+* Studied alignment degradation and rare-token failure modes in multimodal transformer architectures.
+
+## Technical Areas
+
+Machine Learning:
+PyTorch · Transformers · Representation Learning · NLP · Information Retrieval · Recommendation Systems · Speech AI
+
+Systems:
+FAISS · FastAPI · MLflow · Docker · Vector Search · Distributed Data Processing
+
+Evaluation:
+Recall@K · MRR · nDCG · MAP · BLEU · ROC-AUC · Latency Benchmarking · Throughput Analysis
+
+## Current Focus
+
+* Retrieval and ranking systems
+* Recommendation architectures
+* LLM evaluation and reliability
+* AI system benchmarking
+* Scalable ML infrastructure
+
+I am particularly interested in building evaluation frameworks that reveal hidden failure modes, measurement biases, and reliability limitations in large-scale AI systems.
 
 
 ## 🌐 Socials:
