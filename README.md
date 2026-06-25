@@ -1,5 +1,6 @@
-![Hi there, I'm Dhushyanth!](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ2OXplbTZtajdraDk2NGlqYWJ0NW5hZ2hydTA2N3Zsd3N5M2RrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif)  # Dhushyanth Kumar
+![Hi there, I'm Dhushyanth!](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ2OXplbTZtajdraDk2NGlqYWJ0NW5hZ2hydTA2N3Zsd3N5M2RrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif)  
 
+# Dhushyanth Kumar
 
 Machine Learning Research Engineer | Retrieval Systems | Generative AI | Recommendation Systems
 
