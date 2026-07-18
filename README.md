@@ -5,8 +5,6 @@
 
 Machine Learning Research Engineer
 
-Incoming M.S. in Information Management, University of Illinois Urbana–Champaign
-
 I build and evaluate machine learning systems for retrieval, recommendation, and generative AI. My work focuses on understanding how modern AI systems behave under real-world constraints including scale, latency, domain shift, noisy supervision, cold-start conditions, and imperfect evaluation methodologies.
 
 ## Research Interests
