@@ -1,6 +1,3 @@
-![Hi there, I'm Dhushyanth!] 
-
-
 # Hi There, I'm Dhushyanth 👋
 
 Machine Learning Research Engineer
